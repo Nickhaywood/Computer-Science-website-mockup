@@ -1,2 +1,2 @@
 # computer science website 
->sample website using basic html and css
+Static single page sample website using basic HTML/CSS
